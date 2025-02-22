@@ -1,0 +1,11 @@
+{
+  "name": "game_db",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --max_old_space_size=512 ./src/index.js",
+    "update": "node --max_old_space_size=2048 ./src/update.js",
+    "update-dev": "node --max_old_space_size=2048 --env-file=.env ./src/update.js"
+  }
+}
