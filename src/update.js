@@ -6,7 +6,7 @@ const PAGE_SIZE = 500;
 const metadata = JSON.parse(fs.readFileSync('metadata.json'));
 const dbMap = toMap(JSON.parse(fs.readFileSync('db.json')), (item) => item.id);
 
-const queryStart = "fields id, name, slug, updated_at, "
+const queryStart = "fields id, name, slug, aggregated_rating, rating, updated_at, "
     + "cover.image_id, "
     + "external_games.category, external_games.uid, external_games.url, "
     + "websites.category, websites.url; "
@@ -31,7 +31,6 @@ do {
     });
     const body = await response.json();
 
-    console.log(body);
     for (const item of body) {
         dbMap.set(item.id, await mapGame(dbMap.get(item.id), item));
     }
@@ -74,7 +73,9 @@ async function mapGame(existingGame, igdbGame) {
         gogId: defaultValue(existingGame?.gogId, getExternalId(igdbGame, 5)),
         epicSlug: defaultValue(existingGame?.epicSlug, epicSlug),
         epicId: defaultValue(existingGame?.epicId, epicId),
-        amazonId: defaultValue(existingGame?.amazonId, null) // any way to get amazon prime games product ids?
+        amazonId: defaultValue(existingGame?.amazonId, null), // any way to get amazon prime games product ids?
+        rating: igdbGame.aggregated_rating,
+        userRating: igdbGame.rating
     };
 }
 
