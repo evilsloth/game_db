@@ -11,5 +11,5 @@ export function defaultValue(value, defaultValue) {
         return value
     }
     
-    return defaultValue != null ? defaultValue : null;
+    return defaultValue != null ? defaultValue : undefined;
 }
