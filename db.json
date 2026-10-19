@@ -340,7 +340,7 @@
     "epicSlug": "dead-space-2008-f45921",
     "epicId": "561519f67a624ff9b235797a5a67f6d4",
     "rating": 88.16666666666667,
-    "userRating": 85.66862233021038
+    "userRating": 85.6686832537266
   },
   {
     "id": 38,
@@ -351,7 +351,7 @@
     "epicSlug": "dead-space-2-1467b0",
     "epicId": "3d281cbdd65142acbf834aeb20f7bc0c",
     "rating": 90,
-    "userRating": 86.42663505421126
+    "userRating": 86.42671386482313
   },
   {
     "id": 39,
@@ -846,7 +846,7 @@
     "name": "Need for Speed: Hot Pursuit 2",
     "imageId": "co2098",
     "rating": 80,
-    "userRating": 74.99881768802757
+    "userRating": 74.99940200925818
   },
   {
     "id": 96,
@@ -854,7 +854,7 @@
     "name": "Need for Speed: Underground",
     "imageId": "co209g",
     "rating": 76.5,
-    "userRating": 82.98731310901387
+    "userRating": 82.98751793931977
   },
   {
     "id": 97,
@@ -862,7 +862,7 @@
     "name": "Need for Speed: Underground 2",
     "imageId": "co209h",
     "rating": 78.5,
-    "userRating": 83.19197625132539
+    "userRating": 83.19201578608687
   },
   {
     "id": 98,
@@ -870,7 +870,7 @@
     "name": "Need for Speed: Most Wanted",
     "imageId": "co209j",
     "rating": 84.71428571428571,
-    "userRating": 84.3805892596281
+    "userRating": 84.38078091311883
   },
   {
     "id": 99,
@@ -878,7 +878,7 @@
     "name": "Need for Speed: Carbon",
     "imageId": "co209k",
     "rating": 70.5,
-    "userRating": 72.75451806133471
+    "userRating": 72.75430339919102
   },
   {
     "id": 100,
@@ -886,7 +886,7 @@
     "name": "Need for Speed: ProStreet",
     "imageId": "co209l",
     "rating": 60.75,
-    "userRating": 68.9789434997032
+    "userRating": 68.97933056017439
   },
   {
     "id": 101,
@@ -1977,7 +1977,7 @@
     "imageId": "co1nmw",
     "steamId": "220",
     "rating": 79.125,
-    "userRating": 90.36544800619421
+    "userRating": 90.36523715514767
   },
   {
     "id": 234,
@@ -2593,7 +2593,7 @@
     "slug": "sid-meier-s-civilization-iii",
     "name": "Sid Meier's Civilization III",
     "imageId": "co2jvj",
-    "userRating": 79.99757082284226
+    "userRating": 79.9966488647467
   },
   {
     "id": 311,
@@ -2839,7 +2839,7 @@
     "name": "Harry Potter and the Sorcerer's Stone",
     "imageId": "co3jh0",
     "rating": 64,
-    "userRating": 73.4492387262638
+    "userRating": 73.44960720929447
   },
   {
     "id": 342,
@@ -3111,7 +3111,7 @@
     "slug": "metal-gear",
     "name": "Metal Gear",
     "imageId": "co3ogc",
-    "userRating": 73.32163886169067
+    "userRating": 73.31845008342542
   },
   {
     "id": 375,
@@ -3153,7 +3153,7 @@
     "name": "Metal Gear Solid 3: Snake Eater",
     "imageId": "co5ei5",
     "rating": 85.5,
-    "userRating": 92.67492395320089
+    "userRating": 92.6748102126212
   },
   {
     "id": 380,
@@ -3169,7 +3169,7 @@
     "name": "Metal Gear Solid: Portable Ops",
     "imageId": "co2qok",
     "rating": 90,
-    "userRating": 67.73852309130925
+    "userRating": 67.76799001925627
   },
   {
     "id": 382,
@@ -3177,7 +3177,7 @@
     "name": "Metal Gear Solid: Peace Walker",
     "imageId": "co5ejw",
     "rating": 93.25,
-    "userRating": 80.075772947871
+    "userRating": 80.07654361318657
   },
   {
     "id": 383,
@@ -3572,7 +3572,7 @@
     "imageId": "co2lcv",
     "epicSlug": "red-dead-redemption",
     "rating": 91.8,
-    "userRating": 89.15324110484272
+    "userRating": 89.1533418867522
   },
   {
     "id": 435,
@@ -3944,7 +3944,7 @@
     "name": "Metal Gear Solid 3: Subsistence",
     "imageId": "co1vd6",
     "rating": 97.5,
-    "userRating": 92.14122898868125
+    "userRating": 92.14052193477022
   },
   {
     "id": 480,
@@ -3977,7 +3977,7 @@
     "imageId": "co2vyk",
     "gogId": "1141086411",
     "rating": 72.33333333333333,
-    "userRating": 76.40122156939915
+    "userRating": 76.39923084036118
   },
   {
     "id": 484,
@@ -3985,7 +3985,7 @@
     "name": "Silent Hill: Origins",
     "imageId": "co2vyq",
     "rating": 80.25,
-    "userRating": 73.53092600305429
+    "userRating": 73.53143989240199
   },
   {
     "id": 485,
@@ -4065,7 +4065,7 @@
     "epicSlug": "heavy-rain",
     "epicId": "prod-aster",
     "rating": 80.25,
-    "userRating": 81.4571305472177
+    "userRating": 81.45699667757775
   },
   {
     "id": 494,
@@ -4249,7 +4249,7 @@
     "steamId": "21100",
     "gogId": "1217589235",
     "rating": 75.8,
-    "userRating": 68.53936072040162
+    "userRating": 68.53865546772332
   },
   {
     "id": 515,
@@ -4276,7 +4276,7 @@
     "imageId": "co1utk",
     "steamId": "21090",
     "rating": 80.85714285714286,
-    "userRating": 81.02222504383153
+    "userRating": 81.02252464835387
   },
   {
     "id": 518,
@@ -4285,7 +4285,7 @@
     "imageId": "co1voy",
     "steamId": "21110",
     "rating": 73.33333333333333,
-    "userRating": 79.32725872006078
+    "userRating": 79.32435296807449
   },
   {
     "id": 519,
@@ -4294,7 +4294,7 @@
     "imageId": "co1vow",
     "steamId": "21120",
     "rating": 70,
-    "userRating": 73.04493006631022
+    "userRating": 73.04267266054426
   },
   {
     "id": 520,
@@ -4303,7 +4303,7 @@
     "imageId": "co1uts",
     "steamId": "16450",
     "rating": 76,
-    "userRating": 76.53392269341636
+    "userRating": 76.53324349139454
   },
   {
     "id": 521,
@@ -6678,7 +6678,7 @@
     "steamId": "9480",
     "gogId": "1430740458",
     "rating": 81.16666666666667,
-    "userRating": 73.31669143438965
+    "userRating": 73.52728933292433
   },
   {
     "id": 827,
@@ -7202,7 +7202,7 @@
     "imageId": "co6rzl",
     "steamId": "440",
     "rating": 80,
-    "userRating": 82.7615741662834
+    "userRating": 82.76177078379521
   },
   {
     "id": 892,
@@ -8275,7 +8275,7 @@
     "epicSlug": "grand-theft-auto-v",
     "epicId": "68d2cc08f9a94b8fb51af4f5cfa6d41b",
     "rating": 88.13793103448276,
-    "userRating": 89.63830993976758
+    "userRating": 89.638381009929
   },
   {
     "id": 1021,
@@ -8621,7 +8621,7 @@
     "epicSlug": "alan-wake",
     "epicId": "84f5fb95bac74e08b6fdb1628f9491b7",
     "rating": 83,
-    "userRating": 81.25545482478978
+    "userRating": 81.25556323472209
   },
   {
     "id": 1063,
@@ -9781,7 +9781,7 @@
     "epicSlug": "dead-space-3-5a3755",
     "epicId": "3db6a38ba9bc42d98dc1bc9c47f9e221",
     "rating": 73.66666666666667,
-    "userRating": 72.54310856409575
+    "userRating": 72.54340199597854
   },
   {
     "id": 1217,
@@ -10712,7 +10712,7 @@
     "epicSlug": "limbo",
     "epicId": "483e8369f22e4c46884b0b8406a33bde",
     "rating": 84,
-    "userRating": 80.94648002176557
+    "userRating": 80.94638395838604
   },
   {
     "id": 1332,
@@ -10823,7 +10823,7 @@
     "epicSlug": "beyond-two-souls",
     "epicId": "prod-lavender",
     "rating": 66.33333333333333,
-    "userRating": 72.77315707493938
+    "userRating": 72.77308795144725
   },
   {
     "id": 1343,
@@ -11116,7 +11116,7 @@
     "steamId": "50300",
     "gogId": "1710761915",
     "rating": 76.66666666666667,
-    "userRating": 82.05711738454556
+    "userRating": 82.05716851252097
   },
   {
     "id": 1378,
@@ -15510,7 +15510,7 @@
     "steamId": "204450",
     "gogId": "2015389384",
     "rating": 74.6,
-    "userRating": 77.56445297333455
+    "userRating": 77.56462071341281
   },
   {
     "id": 1977,
@@ -15550,7 +15550,7 @@
     "imageId": "co1nrn",
     "steamId": "206420",
     "rating": 84.14285714285714,
-    "userRating": 74.04709972126815
+    "userRating": 74.04684586781671
   },
   {
     "id": 1982,
@@ -15586,7 +15586,7 @@
     "imageId": "co1v85",
     "steamId": "287700",
     "rating": 95.73684210526316,
-    "userRating": 84.69869681490965
+    "userRating": 84.69949728459802
   },
   {
     "id": 1986,
@@ -15622,7 +15622,7 @@
     "steamId": "70300",
     "gogId": "1207659753",
     "rating": 79.75,
-    "userRating": 79.63788798457087
+    "userRating": 79.63586129460819
   },
   {
     "id": 1991,
@@ -22390,7 +22390,7 @@
     "steamId": "239030",
     "gogId": "1207659209",
     "rating": 82.4,
-    "userRating": 81.77034259898403
+    "userRating": 81.7702231610028
   },
   {
     "id": 2936,
@@ -22786,7 +22786,7 @@
     "name": "Persona 4 Golden",
     "imageId": "co1n1x",
     "rating": 85.91666666666667,
-    "userRating": 94.33241609943379
+    "userRating": 94.3326932381879
   },
   {
     "id": 2986,
@@ -23456,7 +23456,7 @@
     "imageId": "co7et5",
     "steamId": "227300",
     "rating": 87.5,
-    "userRating": 78.16024342150334
+    "userRating": 78.16114211962982
   },
   {
     "id": 3071,
@@ -40642,7 +40642,7 @@
     "imageId": "co2duu",
     "steamId": "208730",
     "rating": 57.14285714285715,
-    "userRating": 63.92125240034285
+    "userRating": 63.93666409936893
   },
   {
     "id": 5490,
@@ -41562,7 +41562,7 @@
     "epicSlug": "smite",
     "epicId": "f71b1231985f48d1af3de723e0a6acdd",
     "rating": 78,
-    "userRating": 68.89932461365851
+    "userRating": 68.90750222457726
   },
   {
     "id": 5608,
@@ -49240,7 +49240,7 @@
     "epicSlug": "tales-from-the-borderlands",
     "epicId": "b88edafefdc44788b1cc12e195685b01",
     "rating": 87.82142857142857,
-    "userRating": 85.13239178982036
+    "userRating": 85.13512414144023
   },
   {
     "id": 6708,
@@ -50929,7 +50929,7 @@
     "imageId": "co2eis",
     "steamId": "4720",
     "rating": 73.83333333333333,
-    "userRating": 80.25375879004123
+    "userRating": 80.25313663481364
   },
   {
     "id": 6943,
@@ -50937,7 +50937,7 @@
     "name": "Condemned 2: Bloodshot",
     "imageId": "co24nw",
     "rating": 85.4,
-    "userRating": 74.7642689994762
+    "userRating": 74.76529252537097
   },
   {
     "id": 6944,
@@ -53910,7 +53910,7 @@
     "epicSlug": "valiant-hearts",
     "epicId": "683f053283404500a4fd3702bad98548",
     "rating": 76.11111111111111,
-    "userRating": 81.13974739195179
+    "userRating": 81.13970685267886
   },
   {
     "id": 7328,
@@ -53945,7 +53945,7 @@
     "name": "Uncharted 4: A Thief's End",
     "imageId": "co1r7h",
     "rating": 93.24,
-    "userRating": 90.42761033828543
+    "userRating": 90.42715696630259
   },
   {
     "id": 7332,
@@ -56789,7 +56789,7 @@
     "steamId": "301910",
     "gogId": "1978178686",
     "rating": 64.27272727272727,
-    "userRating": 67.14633348448652
+    "userRating": 67.14683699906197
   },
   {
     "id": 7709,
@@ -58943,7 +58943,7 @@
     "slug": "disneys-toy-story",
     "name": "Disney's Toy Story",
     "imageId": "co9bko",
-    "userRating": 63.8291184789318
+    "userRating": 61.62595717039288
   },
   {
     "id": 8021,
@@ -60448,7 +60448,7 @@
     "name": "Grand Theft Auto: London 1969",
     "imageId": "co2lb1",
     "rating": 90,
-    "userRating": 68.34416751310611
+    "userRating": 68.3354542854526
   },
   {
     "id": 8236,
@@ -67541,7 +67541,7 @@
     "steamId": "424840",
     "gogId": "1430925709",
     "rating": 77.72222222222223,
-    "userRating": 80.72048017466904
+    "userRating": 80.72079160065441
   },
   {
     "id": 9175,
@@ -67618,7 +67618,7 @@
     "steamId": "320240",
     "gogId": "1617830436",
     "rating": 63,
-    "userRating": 63.14497387675739
+    "userRating": 63.14233982131125
   },
   {
     "id": 9183,
@@ -70839,7 +70839,7 @@
     "name": "Persona 4",
     "imageId": "co1u07",
     "rating": 92.75,
-    "userRating": 88.40821752743253
+    "userRating": 88.40948491469616
   },
   {
     "id": 9601,
@@ -86599,7 +86599,7 @@
     "epicSlug": "outerwilds",
     "epicId": "prod-starfish",
     "rating": 84.71428571428571,
-    "userRating": 89.26033888513908
+    "userRating": 89.26005371622311
   },
   {
     "id": 11738,
@@ -90475,7 +90475,7 @@
     "slug": "fate-slash-stay-night",
     "name": "Fate/Stay Night",
     "imageId": "co2h3l",
-    "userRating": 88.29715892943086
+    "userRating": 88.28388146184275
   },
   {
     "id": 12329,
@@ -91710,7 +91710,7 @@
     "steamId": "391540",
     "gogId": "1456487183",
     "rating": 96.38461538461539,
-    "userRating": 85.97214047204116
+    "userRating": 85.97234313955546
   },
   {
     "id": 12518,
@@ -103429,7 +103429,7 @@
     "epicSlug": "detroit-become-human",
     "epicId": "prod-columbine",
     "rating": 77.61538461538461,
-    "userRating": 82.34388753991328
+    "userRating": 82.34402873436352
   },
   {
     "id": 14363,
@@ -110597,7 +110597,7 @@
     "slug": "amnesia-justine",
     "name": "Amnesia: Justine",
     "imageId": "co1jiy",
-    "userRating": 63.95758979139335
+    "userRating": 63.96199800345747
   },
   {
     "id": 15535,
@@ -117776,7 +117776,7 @@
     "steamId": "413150",
     "gogId": "1453375253",
     "rating": 90.53846153846153,
-    "userRating": 85.98363630350204
+    "userRating": 85.98369885528479
   },
   {
     "id": 17001,
@@ -119399,7 +119399,7 @@
     "slug": "roblox",
     "name": "Roblox",
     "imageId": "co5u9i",
-    "userRating": 70.30180099733046
+    "userRating": 70.30372098157123
   },
   {
     "id": 17271,
@@ -134181,7 +134181,7 @@
     "steamId": "387290",
     "gogId": "1384944984",
     "rating": 86.28571428571429,
-    "userRating": 85.90719154764736
+    "userRating": 85.90523467788273
   },
   {
     "id": 19457,
@@ -134958,7 +134958,7 @@
     "imageId": "co8uu1",
     "steamId": "418370",
     "rating": 85.17857142857143,
-    "userRating": 84.1578298531312
+    "userRating": 84.15794662789409
   },
   {
     "id": 19563,
@@ -134986,7 +134986,7 @@
     "name": "Marvel's Spider-Man",
     "imageId": "co1r77",
     "rating": 89.6875,
-    "userRating": 87.14435530953682
+    "userRating": 87.14425252835923
   },
   {
     "id": 19566,
@@ -143426,7 +143426,7 @@
     "name": "Metal Gear Solid HD Collection",
     "imageId": "co2gkj",
     "rating": 88.625,
-    "userRating": 89.27120897562814
+    "userRating": 89.27309254238396
   },
   {
     "id": 20742,
@@ -157904,7 +157904,7 @@
     "name": "F.E.A.R. 2: Reborn",
     "imageId": "co2whq",
     "steamId": "16465",
-    "userRating": 60.50623646454937
+    "userRating": 60.497111317100014
   },
   {
     "id": 22887,
@@ -171970,7 +171970,7 @@
     "epicSlug": "red-dead-redemption-2",
     "epicId": "1893447b7ea5459b96191a7458075768",
     "rating": 94.05882352941177,
-    "userRating": 93.19986474819498
+    "userRating": 93.19992643516412
   },
   {
     "id": 25078,
@@ -175560,7 +175560,7 @@
     "slug": "metal-gear-solid-v-the-definitive-experience",
     "name": "Metal Gear Solid V: The Definitive Experience",
     "imageId": "co2ats",
-    "userRating": 80.81650794449877
+    "userRating": 80.86565410341017
   },
   {
     "id": 25638,
@@ -179143,7 +179143,7 @@
     "name": "The Last of Us Part II",
     "imageId": "co5ziw",
     "rating": 95.18181818181819,
-    "userRating": 90.39625235724432
+    "userRating": 90.39624384097428
   },
   {
     "id": 26193,
@@ -183215,7 +183215,7 @@
     "epicSlug": "blasphemous",
     "epicId": "6b0291b5b26b4015a4cbb47a40ebb809",
     "rating": 78.25,
-    "userRating": 80.04212536782661
+    "userRating": 80.04107851626799
   },
   {
     "id": 26821,
@@ -186905,7 +186905,7 @@
     "epicSlug": "yokus-island-express",
     "epicId": "caa15ef6e4554790a6e5d6cf404d7bbb",
     "rating": 84.5,
-    "userRating": 83.56010660939141
+    "userRating": 82.39303695517953
   },
   {
     "id": 27368,
@@ -190874,7 +190874,7 @@
     "name": "Peace, Death!",
     "imageId": "co6re9",
     "steamId": "588690",
-    "userRating": 65.32817772344201
+    "userRating": 66.89934077984282
   },
   {
     "id": 27977,
@@ -193163,7 +193163,7 @@
     "gogId": "1351324631",
     "epicSlug": "bendy-and-the-ink-machine-60cf5a",
     "rating": 86.5,
-    "userRating": 70.20376091272645
+    "userRating": 70.12078300274315
   },
   {
     "id": 28312,
@@ -253857,7 +253857,7 @@
     "slug": "love-live-school-idol-festival",
     "name": "Love Live! School Idol Festival",
     "imageId": "co5y7m",
-    "userRating": 76.03685250365203
+    "userRating": 75.52398745038326
   },
   {
     "id": 36661,
@@ -336500,7 +336500,7 @@
     "imageId": "co1n8d",
     "steamId": "702890",
     "rating": 76.85714285714286,
-    "userRating": 82.54284889884056
+    "userRating": 82.5258626704364
   },
   {
     "id": 51449,
@@ -357807,7 +357807,7 @@
     "imageId": "co2zpu",
     "steamId": "1196590",
     "rating": 86.8,
-    "userRating": 83.90846751133664
+    "userRating": 83.90860586817524
   },
   {
     "id": 55164,
@@ -363038,7 +363038,7 @@
     "imageId": "co6p5e",
     "steamId": "698780",
     "rating": 94.5,
-    "userRating": 81.75197338675514
+    "userRating": 81.74942523037654
   },
   {
     "id": 55936,
@@ -433680,7 +433680,7 @@
     "epicSlug": "superliminal",
     "epicId": "70136b2e2b914a109570a8cbda553ca1",
     "rating": 79.5,
-    "userRating": 79.96005368017289
+    "userRating": 79.95693207655796
   },
   {
     "id": 68448,
@@ -458592,7 +458592,7 @@
     "epicSlug": "untitled-goose-game",
     "epicId": "9945f889b3a64446b7b171239a3fa3eb",
     "rating": 82.22222222222223,
-    "userRating": 79.30114331101657
+    "userRating": 79.2935192729834
   },
   {
     "id": 72814,
@@ -506451,7 +506451,7 @@
     "imageId": "co2uro",
     "steamId": "570940",
     "rating": 87,
-    "userRating": 87.09148956496092
+    "userRating": 87.08913393719101
   },
   {
     "id": 81086,
@@ -548170,7 +548170,7 @@
     "epicSlug": "warhammer-mechanicus-0e4b71",
     "epicId": "d26f2f9ea65c462dbd39040ae8389d36",
     "rating": 76.5,
-    "userRating": 79.94911151953255
+    "userRating": 79.92142230305605
   },
   {
     "id": 88462,
@@ -575258,7 +575258,8 @@
   {
     "id": 93259,
     "slug": "balko",
-    "name": "Balko"
+    "name": "Balko",
+    "imageId": "cod673"
   },
   {
     "id": 93260,
@@ -632192,7 +632193,7 @@
     "epicSlug": "doom-eternal--deluxe-edition",
     "epicId": "99ca091216ac468eb9bcfb8aa4562907",
     "rating": 86.07142857142857,
-    "userRating": 84.71131318789378
+    "userRating": 84.61250060540566
   },
   {
     "id": 103299,
@@ -642216,7 +642217,7 @@
     "imageId": "co2x61",
     "steamId": "892970",
     "rating": 90,
-    "userRating": 84.28151439298975
+    "userRating": 84.2821119004818
   },
   {
     "id": 104968,
@@ -664950,7 +664951,7 @@
     "steamId": "714120",
     "gogId": "1677361061",
     "rating": 61,
-    "userRating": 73.59284166257426
+    "userRating": 73.58901530483155
   },
   {
     "id": 108779,
@@ -714480,7 +714481,7 @@
     "epicSlug": "vampire-the-masquerade-bloodlines-2",
     "epicId": "prod-nemesia",
     "rating": 79,
-    "userRating": 67.5540737750123
+    "userRating": 67.44018856615973
   },
   {
     "id": 116531,
@@ -748320,7 +748321,7 @@
     "steamId": "860510",
     "gogId": "1871006055",
     "rating": 82.23076923076923,
-    "userRating": 81.82853918350638
+    "userRating": 81.82672701971282
   },
   {
     "id": 121761,
@@ -750881,7 +750882,7 @@
     "imageId": "co20xn",
     "steamId": "1194630",
     "rating": 76.4,
-    "userRating": 69.95900460271154
+    "userRating": 69.93236981238796
   },
   {
     "id": 122122,
@@ -752983,7 +752984,7 @@
   },
   {
     "id": 122429,
-    "slug": "firestone-online-idle-rpg",
+    "slug": "firestone-idle-clicker-online-rpg",
     "name": "Firestone",
     "imageId": "co1xcx",
     "steamId": "1013320",
@@ -758687,7 +758688,8 @@
   {
     "id": 123421,
     "slug": "combat-command-matrix-edition",
-    "name": "Combat Command: Matrix Edition"
+    "name": "Combat Command: Matrix Edition",
+    "imageId": "cod65q"
   },
   {
     "id": 123422,
@@ -769712,7 +769714,7 @@
     "imageId": "co885f",
     "steamId": "2357570",
     "rating": 83,
-    "userRating": 69.65757308193666
+    "userRating": 69.77014915151264
   },
   {
     "id": 125175,
@@ -783736,7 +783738,7 @@
     "gogId": "1309298705",
     "epicSlug": "slender-threads-34651b",
     "epicId": "46eb7120584340da88d1a50a685b689c",
-    "userRating": 79.74672790043125
+    "userRating": 79.74835987182841
   },
   {
     "id": 127426,
@@ -810502,7 +810504,8 @@
     "slug": "sin-reloaded",
     "name": "Sin: Reloaded",
     "imageId": "co2h2r",
-    "steamId": "632950"
+    "steamId": "632950",
+    "rating": 75
   },
   {
     "id": 131928,
@@ -817582,7 +817585,7 @@
     "epicSlug": "assassins-creed-valhalla",
     "epicId": "cd49bcbb2fe443ea886addbea2b6cb03",
     "rating": 85.08333333333333,
-    "userRating": 74.19179324387764
+    "userRating": 74.19127068042721
   },
   {
     "id": 133005,
@@ -851234,7 +851237,7 @@
     "epicSlug": "riders-republic",
     "epicId": "5070ce05b47247fd92f9b2eb16baf202",
     "rating": 77.16666666666667,
-    "userRating": 56.01641003910278
+    "userRating": 55.98466188367905
   },
   {
     "id": 138767,
@@ -862262,7 +862265,7 @@
     "imageId": "co2kj0",
     "steamId": "1281590",
     "rating": 76.11111111111111,
-    "userRating": 72.6627663390899
+    "userRating": 72.65412411293043
   },
   {
     "id": 140618,
@@ -865178,7 +865181,7 @@
     "steamId": "3768760",
     "epicSlug": "007-first-light-182cea",
     "rating": 81.66666666666667,
-    "userRating": 80.82078439004167
+    "userRating": 80.82235062622543
   },
   {
     "id": 141115,
@@ -866422,7 +866425,7 @@
     "steamId": "1404210",
     "epicSlug": "red-dead-redemption-2--red-dead-online",
     "epicId": "1893447b7ea5459b96191a7458075768",
-    "userRating": 71.3483167335298
+    "userRating": 71.34391556022119
   },
   {
     "id": 141339,
@@ -882235,7 +882238,7 @@
     "epicSlug": "sifu",
     "epicId": "535f2bc5c4fb43798c8e65fefce6f990",
     "rating": 78.85714285714286,
-    "userRating": 81.9067209409458
+    "userRating": 81.9843112943754
   },
   {
     "id": 144024,
@@ -927532,7 +927535,7 @@
     "imageId": "co4ty9",
     "steamId": "1613620",
     "epicSlug": "plateup-a99631",
-    "userRating": 79.73493275794834
+    "userRating": 79.73529998442604
   },
   {
     "id": 151354,
@@ -932085,7 +932088,7 @@
     "epicSlug": "planet-of-lana-a9febe",
     "epicId": "73de6cade44941c0a2627539462e6ec3",
     "rating": 93.33333333333333,
-    "userRating": 75.86758698634212
+    "userRating": 75.86356812038137
   },
   {
     "id": 152072,
@@ -932940,7 +932943,7 @@
     "epicSlug": "avatar-frontiers-of-pandora",
     "epicId": "96485b0e6ba34d25a600a1412e167fff",
     "rating": 73.33333333333333,
-    "userRating": 73.14321839381749
+    "userRating": 73.13554102247954
   },
   {
     "id": 152203,
@@ -933221,7 +933224,7 @@
     "epicSlug": "a-plague-tale-requiem",
     "epicId": "eddb818e30d34bc9bae4e83cf04a9514",
     "rating": 85.5,
-    "userRating": 83.57916429620703
+    "userRating": 83.57752692908647
   },
   {
     "id": 152243,
@@ -1019272,7 +1019275,7 @@
     "epicSlug": "blasphemous-2",
     "epicId": "ca6f97aa5f0e46a08cc09c76afc4113c",
     "rating": 88.75,
-    "userRating": 84.65776511916202
+    "userRating": 84.65964940421806
   },
   {
     "id": 165391,
@@ -1096668,7 +1096671,7 @@
     "imageId": "co4l3q",
     "steamId": "1567020",
     "rating": 74.4,
-    "userRating": 68.93220714755059
+    "userRating": 68.88733213267841
   },
   {
     "id": 178362,
@@ -1132167,7 +1132170,7 @@
     "epicSlug": "alan-wake-2",
     "epicId": "bb39232a9dab49969c3eb7fe994b2843",
     "rating": 92.6,
-    "userRating": 87.11580023133058
+    "userRating": 87.11553065430226
   },
   {
     "id": 185247,
@@ -1240228,7 +1240231,7 @@
     "epicSlug": "boltgun-b1cb36",
     "epicId": "a7d88b37aa074837bc574ee4d28a7b36",
     "rating": 83,
-    "userRating": 77.23057142575266
+    "userRating": 77.23153687793359
   },
   {
     "id": 203259,
@@ -1247075,7 +1247078,7 @@
     "epicSlug": "the-last-of-us-part-1",
     "epicId": "eebb6e474030417abe16bba012780349",
     "rating": 77.33333333333333,
-    "userRating": 92.84039413273327
+    "userRating": 92.84068383627756
   },
   {
     "id": 204351,
@@ -1292109,7 +1292112,7 @@
     "name": "Lethal Company",
     "imageId": "co5ive",
     "steamId": "1966720",
-    "userRating": 75.5854090235443
+    "userRating": 75.58122146525895
   },
   {
     "id": 212090,
@@ -1300599,7 +1300602,7 @@
     "slug": "strike-force-heroes",
     "name": "Strike Force Heroes",
     "imageId": "co9j2k",
-    "userRating": 88.70163802215139
+    "userRating": 92.18518160387582
   },
   {
     "id": 213517,
@@ -1314313,7 +1314316,8 @@
     "slug": "dwarven-realms",
     "name": "Dwarven Realms",
     "imageId": "co8kvm",
-    "steamId": "2015240"
+    "steamId": "2015240",
+    "userRating": 58.76404494382022
   },
   {
     "id": 215874,
@@ -1325558,7 +1325562,7 @@
     "imageId": "co8356",
     "steamId": "2072450",
     "rating": 87.4,
-    "userRating": 83.40813332807207
+    "userRating": 83.40913907653334
   },
   {
     "id": 217624,
@@ -1332433,7 +1332437,7 @@
     "slug": "toem-basto-region",
     "name": "Toem: Basto Region",
     "imageId": "co5dh6",
-    "userRating": 89.37641264591123
+    "userRating": 89.3540674679329
   },
   {
     "id": 218897,
@@ -1352641,7 +1352645,7 @@
     "epicSlug": "silent-hill-2-4542c7",
     "epicId": "f551e4fb31b34bd19991a31ed23522b1",
     "rating": 86.6,
-    "userRating": 90.55647719622336
+    "userRating": 90.55839392412273
   },
   {
     "id": 222342,
@@ -1352661,7 +1352665,7 @@
     "epicSlug": "silent-hill-f-714aed",
     "epicId": "6d34282a26c544df88ccc57505cdd2f0",
     "rating": 86.4,
-    "userRating": 71.0466183694054
+    "userRating": 71.04740636415887
   },
   {
     "id": 222344,
@@ -1371005,7 +1371009,7 @@
     "steamId": "1425350",
     "epicSlug": "botany-manor-e7c456",
     "rating": 80,
-    "userRating": 67.1790009362087
+    "userRating": 67.2128699821546
   },
   {
     "id": 225427,
@@ -1388258,7 +1388262,7 @@
     "epicSlug": "infinity-nikki-71fc64",
     "epicId": "8d6db22e08f34ac29247bfbef5ba97a9",
     "rating": 74,
-    "userRating": 65.44829085862845
+    "userRating": 65.4639970008296
   },
   {
     "id": 228351,
@@ -1422985,7 +1422989,7 @@
     "imageId": "co63fe",
     "steamId": "1113000",
     "rating": 90,
-    "userRating": 86.9264552840715
+    "userRating": 86.92066819700003
   },
   {
     "id": 234703,
@@ -1471521,7 +1471525,7 @@
     "name": "Need for Speed: Most Wanted",
     "imageId": "co6b1f",
     "rating": 88,
-    "userRating": 74.46503722017945
+    "userRating": 74.47043630298522
   },
   {
     "id": 243049,
@@ -1566898,7 +1566902,8 @@
     "slug": "ratatan",
     "name": "Ratatan",
     "imageId": "co7osi",
-    "steamId": "2949320"
+    "steamId": "2949320",
+    "rating": 75
   },
   {
     "id": 259340,
@@ -1585210,7 +1585215,7 @@
     "imageId": "co6yzm",
     "steamId": "1392860",
     "rating": 78.25,
-    "userRating": 66.77255842488036
+    "userRating": 66.75499934895511
   },
   {
     "id": 262530,
@@ -1610599,7 +1610604,7 @@
     "slug": "tomb-raider--8",
     "name": "Tomb Raider",
     "imageId": "co72zm",
-    "userRating": 78.10486792862913
+    "userRating": 78.08800937105937
   },
   {
     "id": 266698,
@@ -1686722,7 +1686727,7 @@
     "imageId": "co8roc",
     "steamId": "2680010",
     "rating": 84,
-    "userRating": 81.51638388607422
+    "userRating": 81.52471289130628
   },
   {
     "id": 279644,
@@ -1835504,7 +1835509,7 @@
     "epicSlug": "expedition-33-b3240d",
     "epicId": "330dace5ffc74156987f91d454ac544b",
     "rating": 87,
-    "userRating": 91.8100540530881
+    "userRating": 91.80999755129005
   },
   {
     "id": 305153,
@@ -1853472,7 +1853477,7 @@
     "name": "Neverness to Everness",
     "imageId": "co8jt2",
     "epicSlug": "nte-neverness-to-everness-965a32",
-    "userRating": 55.80414167495623
+    "userRating": 55.85271204439223
   },
   {
     "id": 308537,
@@ -1887962,7 +1887967,7 @@
     "steamId": "2129530",
     "epicSlug": "reanimal",
     "rating": 81.33333333333333,
-    "userRating": 79.93440958716745
+    "userRating": 79.9344271080842
   },
   {
     "id": 314266,
@@ -1902773,7 +1902778,7 @@
     "name": "No, I'm Not A Human",
     "imageId": "co9484",
     "steamId": "3180070",
-    "userRating": 74.17328089312446
+    "userRating": 74.15235090651049
   },
   {
     "id": 316988,
@@ -1905042,7 +1905047,7 @@
     "steamId": "2807960",
     "epicSlug": "battlefield-6",
     "rating": 85.66666666666667,
-    "userRating": 72.15633906011901
+    "userRating": 72.16061098379893
   },
   {
     "id": 317409,
@@ -1950475,7 +1950480,7 @@
     "steamId": "2592160",
     "epicSlug": "dispatch-76e550",
     "rating": 85,
-    "userRating": 86.7574139726465
+    "userRating": 86.8887780158538
   },
   {
     "id": 325610,
@@ -1973998,7 +1974003,7 @@
     "name": "Is This Seat Taken?",
     "imageId": "co9d7c",
     "steamId": "3035120",
-    "userRating": 82.95147575614516
+    "userRating": 82.95008163643955
   },
   {
     "id": 329867,
@@ -1989941,7 +1989946,7 @@
     "name": "R.E.P.O.",
     "imageId": "co9fts",
     "steamId": "3241660",
-    "userRating": 72.11886560592885
+    "userRating": 71.80420526036323
   },
   {
     "id": 332781,
@@ -2107696,7 +2107701,7 @@
     "name": "Shift at Midnight",
     "imageId": "coa2v6",
     "steamId": "3722330",
-    "userRating": 69.9270167385954
+    "userRating": 69.99933792868924
   },
   {
     "id": 352790,
@@ -2128335,7 +2128340,7 @@
     "name": "Clive Barker's Hellraiser: Revival",
     "imageId": "coa5o9",
     "steamId": "1551980",
-    "userRating": 89.38179079323176
+    "userRating": 89.35196163970856
   },
   {
     "id": 356553,
@@ -2154473,7 +2154478,7 @@
     "name": "Gamble With Your Friends",
     "imageId": "coaa13",
     "steamId": "3892270",
-    "userRating": 65.48416569594342
+    "userRating": 65.46993932045133
   },
   {
     "id": 361028,
@@ -2245979,7 +2245984,7 @@
     "slug": "how-to-fish",
     "name": "How to Fish",
     "imageId": "cob7jt",
-    "userRating": 68.94736842105263
+    "userRating": 67.90697674418604
   },
   {
     "id": 378171,
@@ -2262288,7 +2262293,8 @@
     "name": "Star Wars: Galactic Racer",
     "imageId": "cob0lg",
     "epicSlug": "star-wars-galactic-racer-246fdc",
-    "rating": 88
+    "rating": 88,
+    "userRating": 86.73469387755102
   },
   {
     "id": 381249,
@@ -2301077,7 +2301083,8 @@
   {
     "id": 388872,
     "slug": "mortal-kombat-11-avalanche-sub-zero",
-    "name": "Mortal Kombat 11: Avalanche Sub-Zero"
+    "name": "Mortal Kombat 11: Avalanche Sub-Zero",
+    "imageId": "cod687"
   },
   {
     "id": 388878,
@@ -2339851,7 +2339858,7 @@
     "slug": "silly-linguine-cat-simulator-deluxe-online",
     "name": "Silly Linguine Cat Simulator Deluxe Online",
     "imageId": "cobufh",
-    "userRating": 90.32679738562092
+    "userRating": 91.24260355029585
   },
   {
     "id": 396384,
@@ -2439707,7 +2439714,8 @@
   {
     "id": 417022,
     "slug": "salvage-of-the-demetria",
-    "name": "Salvage of the Demetria"
+    "name": "Salvage of the Demetria",
+    "imageId": "cod65e"
   },
   {
     "id": 417023,
@@ -2444223,7 +2444231,8 @@
   {
     "id": 417983,
     "slug": "go-far-ming",
-    "name": "Go Far, M.I.N.G."
+    "name": "Go Far, M.I.N.G.",
+    "imageId": "cod63y"
   },
   {
     "id": 417984,
@@ -2451731,7 +2451740,8 @@
   {
     "id": 419746,
     "slug": "tank-a-boom",
-    "name": "Tank-a-Boom"
+    "name": "Tank-a-Boom",
+    "imageId": "cocz7l"
   },
   {
     "id": 419747,
@@ -2460293,7 +2460303,8 @@
   {
     "id": 421535,
     "slug": "galaxyquest",
-    "name": "GalaxyQuest"
+    "name": "GalaxyQuest",
+    "imageId": "cod1y1"
   },
   {
     "id": 421536,
@@ -2464806,7 +2464817,8 @@
   {
     "id": 422488,
     "slug": "conquest-of-the-realms",
-    "name": "Conquest of the Realms"
+    "name": "Conquest of the Realms",
+    "imageId": "cod4uh"
   },
   {
     "id": 422489,
@@ -2465842,6 +2465854,11 @@
     "imageId": "cod3u6"
   },
   {
+    "id": 422718,
+    "slug": "test-subject-arena-2",
+    "name": "Test Subject Arena 2"
+  },
+  {
     "id": 422719,
     "slug": "battle-healer-hildegard",
     "name": "Battle Healer Hildegard"
@@ -2465994,6 +2466011,12 @@
     "imageId": "cod3vl"
   },
   {
+    "id": 422754,
+    "slug": "word-puzzle-master",
+    "name": "Word Puzzle Master",
+    "imageId": "cod3vq"
+  },
+  {
     "id": 422755,
     "slug": "tylers-deal",
     "name": "Tyler’s Deal",
@@ -2466015,6 +2466038,12 @@
     "id": 422760,
     "slug": "top-speed--1",
     "name": "Top Speed"
+  },
+  {
+    "id": 422761,
+    "slug": "tbs-all-star-kanshasai-vol-1-chou-gouka-quiz-ketteiban",
+    "name": "TBS All Star Kanshasai Vol. 1: Chou Gouka! Quiz Ketteiban",
+    "imageId": "cod3w0"
   },
   {
     "id": 422763,
@@ -2466077,6 +2466106,12 @@
     "id": 422773,
     "slug": "cube-land",
     "name": "Cube Land"
+  },
+  {
+    "id": 422775,
+    "slug": "space-mine-raider",
+    "name": "Space Mine Raider",
+    "imageId": "cod3wo"
   },
   {
     "id": 422776,
@@ -2466259,6 +2466294,12 @@
     "imageId": "cod3zg"
   },
   {
+    "id": 422833,
+    "slug": "mario-prime",
+    "name": "Mario Prime",
+    "imageId": "cod3zn"
+  },
+  {
     "id": 422834,
     "slug": "pages-of-tomorrow",
     "name": "Pages of Tomorrow",
@@ -2466326,6 +2466367,12 @@
     "name": "The Stonewood Mystery"
   },
   {
+    "id": 422849,
+    "slug": "kittyrope",
+    "name": "KittyRope",
+    "imageId": "cod403"
+  },
+  {
     "id": 422850,
     "slug": "sylvan-tactics",
     "name": "Sylvan Tactics",
@@ -2466343,10 +2466390,21 @@
     "name": "Cluckopia"
   },
   {
+    "id": 422854,
+    "slug": "re-integral",
+    "name": "Re:Integral",
+    "imageId": "cod5tm"
+  },
+  {
     "id": 422856,
     "slug": "marvel-tokon-fighting-souls-year-1-dlc-character-venom",
     "name": "Marvel Tokon: Fighting Souls - Year 1 DLC Character: Venom",
     "imageId": "cod4nu"
+  },
+  {
+    "id": 422857,
+    "slug": "foot-brawls",
+    "name": "Foot Brawls"
   },
   {
     "id": 422858,
@@ -2466577,6 +2466635,17 @@
     "imageId": "cod43q"
   },
   {
+    "id": 422905,
+    "slug": "punch-clock-panic",
+    "name": "Punch Clock Panic"
+  },
+  {
+    "id": 422906,
+    "slug": "utsusemi-kioku-no-kanata",
+    "name": "Utsusemi: Kioku no Kanata",
+    "imageId": "cod43v"
+  },
+  {
     "id": 422907,
     "slug": "poop-three-the-game",
     "name": "POOP Three: The Game",
@@ -2466606,6 +2466675,29 @@
     "name": "Sacred Judgment"
   },
   {
+    "id": 422913,
+    "slug": "kokori--1",
+    "name": "Kokori",
+    "imageId": "cod44e"
+  },
+  {
+    "id": 422914,
+    "slug": "pokemon-team-rocket-jessie-and-james",
+    "name": "Pokémon Team Rocket: Jessie & James"
+  },
+  {
+    "id": 422920,
+    "slug": "raita-no-growing-up",
+    "name": "Raita no Growing Up",
+    "imageId": "cod44n"
+  },
+  {
+    "id": 422922,
+    "slug": "welcome-to-thingdom",
+    "name": "Welcome to Thingdom",
+    "imageId": "cod44p"
+  },
+  {
     "id": 422925,
     "slug": "the-only-eye-arcane-legacy",
     "name": "The Only Eye: Arcane Legacy",
@@ -2466616,6 +2466708,12 @@
     "slug": "crazyfood",
     "name": "CrazyFood",
     "imageId": "cod48q"
+  },
+  {
+    "id": 422927,
+    "slug": "dishonored-vr-mod",
+    "name": "Dishonored VR Mod",
+    "imageId": "cod452"
   },
   {
     "id": 422928,
@@ -2466736,6 +2466834,12 @@
     "slug": "super-astro-cat-2",
     "name": "Super Astro Cat 2",
     "imageId": "cod46m"
+  },
+  {
+    "id": 422951,
+    "slug": "sanou-ga-kusaru-machi",
+    "name": "Sanou ga Kusaru Machi",
+    "imageId": "cod46n"
   },
   {
     "id": 422953,
@@ -2467395,7 +2467499,8 @@
   {
     "id": 423077,
     "slug": "sort-inc",
-    "name": "Sort Inc."
+    "name": "Sort Inc.",
+    "imageId": "cod65g"
   },
   {
     "id": 423078,
@@ -2467499,6 +2467604,12 @@
     "imageId": "cod4c6"
   },
   {
+    "id": 423102,
+    "slug": "re-draw",
+    "name": "Re:Draw",
+    "imageId": "cod4c7"
+  },
+  {
     "id": 423103,
     "slug": "sky-strike-overdrive",
     "name": "Sky Strike Overdrive",
@@ -2467529,10 +2467640,27 @@
     "imageId": "cod4ch"
   },
   {
+    "id": 423108,
+    "slug": "lost-odyssey-hd-remaster",
+    "name": "Lost Odyssey HD Remaster",
+    "imageId": "cod5zy"
+  },
+  {
     "id": 423109,
     "slug": "virtumon",
     "name": "Virtumon",
     "imageId": "cod4cj"
+  },
+  {
+    "id": 423111,
+    "slug": "tales-of-symphonia-definitive-edition",
+    "name": "Tales of Symphonia: Definitive Edition"
+  },
+  {
+    "id": 423112,
+    "slug": "hot-wheels-rally",
+    "name": "Hot Wheels Rally",
+    "imageId": "cod4cr"
   },
   {
     "id": 423114,
@@ -2467738,6 +2467866,11 @@
     "imageId": "cod4ff"
   },
   {
+    "id": 423151,
+    "slug": "sacredfire",
+    "name": "SacredFire"
+  },
+  {
     "id": 423152,
     "slug": "forgotten-towns",
     "name": "Forgotten Towns",
@@ -2467773,6 +2467906,11 @@
     "slug": "furry-delights-erotic-arcade-lounge",
     "name": "Furry Delights: Erotic Arcade Lounge",
     "imageId": "cod4fp"
+  },
+  {
+    "id": 423161,
+    "slug": "ssx-reconstruction",
+    "name": "SSX Reconstruction"
   },
   {
     "id": 423162,
@@ -2468014,6 +2468152,12 @@
     "imageId": "cod4oz"
   },
   {
+    "id": 423204,
+    "slug": "harbour-attack",
+    "name": "Harbour Attack",
+    "imageId": "cod4ha"
+  },
+  {
     "id": 423208,
     "slug": "f-of-x",
     "name": "F of X",
@@ -2468120,6 +2468264,12 @@
     "slug": "yule-dads",
     "name": "Yule Dads",
     "imageId": "cod4hz"
+  },
+  {
+    "id": 423227,
+    "slug": "space-sweep-and-invaders",
+    "name": "Space Sweep & Invaders",
+    "imageId": "cod4hv"
   },
   {
     "id": 423228,
@@ -2468299,6 +2468449,12 @@
     "slug": "limited-express",
     "name": "Limited Express",
     "imageId": "cod4wh"
+  },
+  {
+    "id": 423263,
+    "slug": "velmora-online",
+    "name": "Velmora Online",
+    "imageId": "cod4jj"
   },
   {
     "id": 423264,
@@ -2468570,7 +2468726,8 @@
   {
     "id": 423314,
     "slug": "heroes-battle-hymn-demonfire-era",
-    "name": "Heroes' Battle Hymn: Demonfire Era"
+    "name": "Heroes' Battle Hymn: Demonfire Era",
+    "imageId": "cod65o"
   },
   {
     "id": 423315,
@@ -2469044,6 +2469201,12 @@
     "imageId": "cod4od"
   },
   {
+    "id": 423400,
+    "slug": "ice-cube",
+    "name": "Ice Cube",
+    "imageId": "cod4pi"
+  },
+  {
     "id": 423401,
     "slug": "slickwave",
     "name": "Slickwave",
@@ -2469304,6 +2469467,11 @@
     "imageId": "cod4sc"
   },
   {
+    "id": 423462,
+    "slug": "pokemon-mystery-dungeon-explorers-of-fortune",
+    "name": "Pokémon Mystery Dungeon: Explorers of Fortune"
+  },
+  {
     "id": 423463,
     "slug": "cards-of-bellum",
     "name": "Cards of Bellum",
@@ -2469411,6 +2469579,11 @@
     "imageId": "cod4up"
   },
   {
+    "id": 423496,
+    "slug": "zoomorphism",
+    "name": "Zoomorphism"
+  },
+  {
     "id": 423497,
     "slug": "greedrill",
     "name": "GreeDrill",
@@ -2469445,6 +2469618,12 @@
     "slug": "hatchnwall",
     "name": "Hatch'n'wall",
     "imageId": "cod4v8"
+  },
+  {
+    "id": 423505,
+    "slug": "boba-quest--1",
+    "name": "Boba Quest",
+    "imageId": "cod4va"
   },
   {
     "id": 423506,
@@ -2469485,6 +2469664,11 @@
     "slug": "district-null",
     "name": "District Null",
     "imageId": "cod4w1"
+  },
+  {
+    "id": 423518,
+    "slug": "3d-mad-racers",
+    "name": "3D Mad Racers"
   },
   {
     "id": 423521,
@@ -2469551,6 +2469735,18 @@
     "name": "Pyralinks"
   },
   {
+    "id": 423537,
+    "slug": "touch-de-tanoshimu-hyakunin-isshu-ds-shigureden",
+    "name": "Touch de Tanoshimu Hyakunin Isshu: DS Shigureden",
+    "imageId": "cod4z0"
+  },
+  {
+    "id": 423538,
+    "slug": "ds-rakubiki-jiten--1",
+    "name": "DS Rakubiki Jiten",
+    "imageId": "cod4z3"
+  },
+  {
     "id": 423539,
     "slug": "plinth--1",
     "name": "Plinth",
@@ -2469578,6 +2469774,18 @@
     "slug": "cable-manager",
     "name": "Cable Manager",
     "imageId": "cod58z"
+  },
+  {
+    "id": 423546,
+    "slug": "grandsire",
+    "name": "Grandsire",
+    "imageId": "cod4zf"
+  },
+  {
+    "id": 423547,
+    "slug": "pizzapoly",
+    "name": "Pizzapoly",
+    "imageId": "cod64v"
   },
   {
     "id": 423549,
@@ -2469717,6 +2469925,12 @@
     "imageId": "cod51k"
   },
   {
+    "id": 423576,
+    "slug": "the-goat",
+    "name": "The G.O.A.T",
+    "imageId": "cod50w"
+  },
+  {
     "id": 423577,
     "slug": "barkside-roads",
     "name": "Barkside Roads",
@@ -2469783,6 +2469997,17 @@
     "imageId": "cod51v"
   },
   {
+    "id": 423593,
+    "slug": "finals-week",
+    "name": "Finals Week",
+    "imageId": "cod51z"
+  },
+  {
+    "id": 423595,
+    "slug": "what-lies-within",
+    "name": "What Lies Within"
+  },
+  {
     "id": 423597,
     "slug": "terrahold",
     "name": "Terrahold",
@@ -2469804,6 +2470029,12 @@
     "id": 423600,
     "slug": "abyzou-rituals-the-manson-case",
     "name": "Abyzou Rituals: The Manson Case"
+  },
+  {
+    "id": 423601,
+    "slug": "the-crew-motorfest-season-11",
+    "name": "The Crew: Motorfest - Season 11",
+    "imageId": "cod52e"
   },
   {
     "id": 423602,
@@ -2470106,6 +2470337,18 @@
     "slug": "leonards-maze",
     "name": "Leonard's Maze",
     "imageId": "cod54p"
+  },
+  {
+    "id": 423656,
+    "slug": "redemption-the-sin-eternal",
+    "name": "Redemption: The Sin Eternal",
+    "imageId": "cod54q"
+  },
+  {
+    "id": 423658,
+    "slug": "glaggs-it",
+    "name": "Glaggs It!",
+    "imageId": "cod54t"
   },
   {
     "id": 423661,
@@ -2471496,7 +2471739,8 @@
   {
     "id": 423975,
     "slug": "alice-nation",
-    "name": "Alice Nation"
+    "name": "Alice Nation",
+    "imageId": "cod68d"
   },
   {
     "id": 423976,
@@ -2471546,6 +2471790,12 @@
     "imageId": "cod5nt"
   },
   {
+    "id": 423989,
+    "slug": "moto-x--1",
+    "name": "Moto X",
+    "imageId": "cod5o2"
+  },
+  {
     "id": 423991,
     "slug": "delta-force-plus-delta-force-2-double-pack",
     "name": "Delta Force + Delta Force 2 Double Pack"
@@ -2471562,10 +2471812,40 @@
     "imageId": "cod5od"
   },
   {
+    "id": 423998,
+    "slug": "unfrost--1",
+    "name": "Unfrost",
+    "imageId": "cod6bp"
+  },
+  {
+    "id": 424002,
+    "slug": "demiourgos",
+    "name": "Demiourgos",
+    "imageId": "cod65a"
+  },
+  {
     "id": 424005,
     "slug": "mascareri-mask-making-simulator",
     "name": "Mascareri: Mask Making Simulator",
     "imageId": "cod5pa"
+  },
+  {
+    "id": 424007,
+    "slug": "rex-summons-a-meteor",
+    "name": "Rex Summons a Meteor",
+    "imageId": "cod64x"
+  },
+  {
+    "id": 424010,
+    "slug": "amusement-factory",
+    "name": "Amusement Factory",
+    "imageId": "cod5pi"
+  },
+  {
+    "id": 424018,
+    "slug": "inn-kreeper",
+    "name": "Inn Kreeper",
+    "imageId": "cod66p"
   },
   {
     "id": 424020,
@@ -2471584,6 +2471864,12 @@
     "slug": "stravaeger",
     "name": "Stravaeger",
     "imageId": "cod5q2"
+  },
+  {
+    "id": 424029,
+    "slug": "wavertree-mountain",
+    "name": "Wavertree Mountain",
+    "imageId": "cod650"
   },
   {
     "id": 424032,
@@ -2471797,10 +2472083,34 @@
     "imageId": "cod5ub"
   },
   {
+    "id": 424112,
+    "slug": "defend-wallace",
+    "name": "Defend Wallace",
+    "imageId": "cod62k"
+  },
+  {
+    "id": 424113,
+    "slug": "kirr",
+    "name": "Kirr",
+    "imageId": "cod63n"
+  },
+  {
     "id": 424116,
     "slug": "revenge-of-doctor-breen",
     "name": "Revenge of Doctor Breen",
     "imageId": "cod5v0"
+  },
+  {
+    "id": 424117,
+    "slug": "fieldmade",
+    "name": "Fieldmade",
+    "imageId": "cod64z"
+  },
+  {
+    "id": 424119,
+    "slug": "ultracapitalism",
+    "name": "Ultracapitalism",
+    "imageId": "cod5va"
   },
   {
     "id": 424131,
@@ -2471965,5 +2472275,460 @@
     "slug": "wild-monkehs",
     "name": "Wild Monkehs",
     "imageId": "cod62z"
+  },
+  {
+    "id": 424231,
+    "slug": "room-movers",
+    "name": "Room Movers",
+    "imageId": "cod637"
+  },
+  {
+    "id": 424236,
+    "slug": "wanderland--1",
+    "name": "Wanderland",
+    "imageId": "cod63c"
+  },
+  {
+    "id": 424240,
+    "slug": "nightravel",
+    "name": "Nightravel",
+    "imageId": "cod63h"
+  },
+  {
+    "id": 424241,
+    "slug": "spiral--2",
+    "name": "Spiral",
+    "imageId": "cod63i"
+  },
+  {
+    "id": 424243,
+    "slug": "granny-2-enhanced",
+    "name": "Granny 2 Enhanced",
+    "imageId": "cod63m"
+  },
+  {
+    "id": 424244,
+    "slug": "on-the-way-home-strange-incidents",
+    "name": "On the Way Home: Strange Incidents",
+    "imageId": "cod63o"
+  },
+  {
+    "id": 424245,
+    "slug": "granny-3-evolved",
+    "name": "Granny 3 Evolved",
+    "imageId": "cod63q"
+  },
+  {
+    "id": 424251,
+    "slug": "gravity-changing",
+    "name": "Gravity Changing",
+    "imageId": "cod641"
+  },
+  {
+    "id": 424254,
+    "slug": "sand-color-loop",
+    "name": "Sand Color Loop",
+    "imageId": "cod646"
+  },
+  {
+    "id": 424255,
+    "slug": "the-enthralling-realms-7-curse-of-the-wildwood",
+    "name": "The Enthralling Realms 7: Curse of the Wildwood",
+    "imageId": "cod649"
+  },
+  {
+    "id": 424256,
+    "slug": "gemollection",
+    "name": "Gemollection",
+    "imageId": "cod64a"
+  },
+  {
+    "id": 424257,
+    "slug": "werebox-2",
+    "name": "WereBox 2",
+    "imageId": "cod64b"
+  },
+  {
+    "id": 424258,
+    "slug": "endless-chimney",
+    "name": "Endless Chimney",
+    "imageId": "cod64c"
+  },
+  {
+    "id": 424259,
+    "slug": "lumenfall",
+    "name": "Lumenfall",
+    "imageId": "cod65v"
+  },
+  {
+    "id": 424260,
+    "slug": "bug-match",
+    "name": "Bug Match",
+    "imageId": "cod64f"
+  },
+  {
+    "id": 424261,
+    "slug": "ninja-pig",
+    "name": "Ninja Pig",
+    "imageId": "cod64g"
+  },
+  {
+    "id": 424263,
+    "slug": "101-cats-in-athens",
+    "name": "101 Cats in Athens",
+    "imageId": "cod64n"
+  },
+  {
+    "id": 424265,
+    "slug": "distorid",
+    "name": "Distorid",
+    "imageId": "cod64o"
+  },
+  {
+    "id": 424266,
+    "slug": "intergalactic-battleships",
+    "name": "Intergalactic Battleships",
+    "imageId": "cod64p"
+  },
+  {
+    "id": 424269,
+    "slug": "the-moonlit-oath",
+    "name": "The Moonlit Oath",
+    "imageId": "cod6a8"
+  },
+  {
+    "id": 424273,
+    "slug": "crownkeep",
+    "name": "Crownkeep",
+    "imageId": "cod658"
+  },
+  {
+    "id": 424276,
+    "slug": "metromino",
+    "name": "Metromino"
+  },
+  {
+    "id": 424277,
+    "slug": "bippo-bot",
+    "name": "Bippo Bot",
+    "imageId": "cod65l"
+  },
+  {
+    "id": 424278,
+    "slug": "shards-of-mistfrost",
+    "name": "Shards of Mistfrost",
+    "imageId": "cod65m"
+  },
+  {
+    "id": 424282,
+    "slug": "fading-clouds",
+    "name": "Fading Clouds",
+    "imageId": "cod65y"
+  },
+  {
+    "id": 424283,
+    "slug": "under-review",
+    "name": "Under Review",
+    "imageId": "cod660"
+  },
+  {
+    "id": 424284,
+    "slug": "one-million-coins",
+    "name": "One Million Coins",
+    "imageId": "cod661"
+  },
+  {
+    "id": 424288,
+    "slug": "almost-home",
+    "name": "Almost Home",
+    "imageId": "cod666"
+  },
+  {
+    "id": 424297,
+    "slug": "the-edutainment-vortex-diner",
+    "name": "The Edutainment Vortex Diner",
+    "imageId": "cod66h"
+  },
+  {
+    "id": 424298,
+    "slug": "tanuki-tag",
+    "name": "Tanuki Tag",
+    "imageId": "cod66j"
+  },
+  {
+    "id": 424299,
+    "slug": "skewerd",
+    "name": "Skewer'd",
+    "imageId": "cod66k"
+  },
+  {
+    "id": 424302,
+    "slug": "below-the-ashes",
+    "name": "Below the Ashes",
+    "imageId": "cod66s"
+  },
+  {
+    "id": 424303,
+    "slug": "trash-island",
+    "name": "Trash Island",
+    "imageId": "cod66v"
+  },
+  {
+    "id": 424304,
+    "slug": "shared-custody",
+    "name": "Shared Custody",
+    "imageId": "cod66x"
+  },
+  {
+    "id": 424307,
+    "slug": "au2-mobile",
+    "name": "AU2 Mobile",
+    "imageId": "cod678"
+  },
+  {
+    "id": 424308,
+    "slug": "what-do-you-meme-the-video-game",
+    "name": "What Do You Meme? The Video Game",
+    "imageId": "cod695"
+  },
+  {
+    "id": 424311,
+    "slug": "heroic-uncle-kim",
+    "name": "Heroic Uncle Kim"
+  },
+  {
+    "id": 424312,
+    "slug": "machina-waking",
+    "name": "Machina Waking",
+    "imageId": "cod67c"
+  },
+  {
+    "id": 424315,
+    "slug": "paw-tales-eternal-bond--1",
+    "name": "Paw Tales: Eternal Bond"
+  },
+  {
+    "id": 424316,
+    "slug": "ragnarok-twilight--1",
+    "name": "Ragnarok: Twilight"
+  },
+  {
+    "id": 424319,
+    "slug": "soul-land-new-world--3",
+    "name": "Soul Land: New World"
+  },
+  {
+    "id": 424325,
+    "slug": "station-12",
+    "name": "Station 12",
+    "imageId": "cod67s"
+  },
+  {
+    "id": 424326,
+    "slug": "just-one-more-coin",
+    "name": "Just One More Coin",
+    "imageId": "cod67v"
+  },
+  {
+    "id": 424327,
+    "slug": "just-one-more-season",
+    "name": "Just One More Season",
+    "imageId": "cod67w"
+  },
+  {
+    "id": 424328,
+    "slug": "just-one-more-fly",
+    "name": "Just One More Fly",
+    "imageId": "cod67z"
+  },
+  {
+    "id": 424329,
+    "slug": "standard-procedures",
+    "name": "Standard Procedures",
+    "imageId": "cod681"
+  },
+  {
+    "id": 424330,
+    "slug": "coursecraze",
+    "name": "CourseCraze",
+    "imageId": "cod688"
+  },
+  {
+    "id": 424331,
+    "slug": "claymo",
+    "name": "Claymo",
+    "imageId": "cod68a"
+  },
+  {
+    "id": 424333,
+    "slug": "slavlands-tribes-at-war",
+    "name": "Slavlands: Tribes at War",
+    "imageId": "cod68m"
+  },
+  {
+    "id": 424335,
+    "slug": "homestray",
+    "name": "HomeStray",
+    "imageId": "cod68h"
+  },
+  {
+    "id": 424337,
+    "slug": "sploodie",
+    "name": "Sploodie",
+    "imageId": "cod68p"
+  },
+  {
+    "id": 424340,
+    "slug": "fiak",
+    "name": "Fiak",
+    "imageId": "cod68s"
+  },
+  {
+    "id": 424344,
+    "slug": "birdys-island--1",
+    "name": "Birdy's Island",
+    "imageId": "cod68z"
+  },
+  {
+    "id": 424345,
+    "slug": "as-long-as-she-forgot",
+    "name": "As Long as She Forgot",
+    "imageId": "cod690"
+  },
+  {
+    "id": 424346,
+    "slug": "it-happened-at-night-a-new-nightmare",
+    "name": "It Happened at Night: A New Nightmare",
+    "imageId": "cod692"
+  },
+  {
+    "id": 424348,
+    "slug": "awful-tower",
+    "name": "Awful Tower"
+  },
+  {
+    "id": 424352,
+    "slug": "warpscape",
+    "name": "Warpscape",
+    "imageId": "cod69k"
+  },
+  {
+    "id": 424353,
+    "slug": "coloring-game-5-dot-7",
+    "name": "Coloring Game 5.7",
+    "imageId": "cod69h"
+  },
+  {
+    "id": 424365,
+    "slug": "cozy-shores",
+    "name": "Cozy Shores"
+  },
+  {
+    "id": 424366,
+    "slug": "just-one-bite",
+    "name": "Just One Bite",
+    "imageId": "cod6al"
+  },
+  {
+    "id": 424368,
+    "slug": "knights-party",
+    "name": "Knight's Party",
+    "imageId": "cod6as"
+  },
+  {
+    "id": 424369,
+    "slug": "shore",
+    "name": "Shore",
+    "imageId": "cod6au"
+  },
+  {
+    "id": 424370,
+    "slug": "walk-off-199x",
+    "name": "Walk-Off 199X",
+    "imageId": "cod6az"
+  },
+  {
+    "id": 424372,
+    "slug": "drop-dead-party",
+    "name": "Drop Dead Party",
+    "imageId": "cod6b5"
+  },
+  {
+    "id": 424374,
+    "slug": "total-backfire",
+    "name": "Total Backfire",
+    "imageId": "cod6bb"
+  },
+  {
+    "id": 424375,
+    "slug": "rapid-miner",
+    "name": "Rapid Miner",
+    "imageId": "cod6bc"
+  },
+  {
+    "id": 424376,
+    "slug": "saju-friend",
+    "name": "Saju Friend",
+    "imageId": "cod6bd"
+  },
+  {
+    "id": 424377,
+    "slug": "leather-atelier",
+    "name": "Leather Atelier",
+    "imageId": "cod6be"
+  },
+  {
+    "id": 424378,
+    "slug": "hospital-hustle--1",
+    "name": "Hospital Hustle",
+    "imageId": "cod6bf"
+  },
+  {
+    "id": 424380,
+    "slug": "dont-get-six",
+    "name": "Don't Get Six",
+    "imageId": "cod6bh"
+  },
+  {
+    "id": 424381,
+    "slug": "hotel-manager-simulator--1",
+    "name": "Hotel Manager Simulator",
+    "imageId": "cod6bj"
+  },
+  {
+    "id": 424382,
+    "slug": "rerouted",
+    "name": "Rerouted",
+    "imageId": "cod6bn"
+  },
+  {
+    "id": 424383,
+    "slug": "mayday-vacay",
+    "name": "Mayday Vacay",
+    "imageId": "cod6bq"
+  },
+  {
+    "id": 424384,
+    "slug": "cave-expedition",
+    "name": "Cave Expedition",
+    "imageId": "cod6bt"
+  },
+  {
+    "id": 424386,
+    "slug": "alruna-no-mans-land",
+    "name": "Alruna: No Man's Land",
+    "imageId": "cod6bv"
+  },
+  {
+    "id": 424387,
+    "slug": "hilo-higher-or-lower-game",
+    "name": "HiLo: Higher or Lower Game",
+    "imageId": "cod6c2"
+  },
+  {
+    "id": 424390,
+    "slug": "the-eggsortist",
+    "name": "The Eggsortist",
+    "imageId": "cod6c3"
   }
 ]
